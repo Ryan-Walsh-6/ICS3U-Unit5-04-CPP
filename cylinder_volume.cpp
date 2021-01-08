@@ -55,5 +55,5 @@ int main() {
     std::cout << std::setprecision(2) << std::fixed <<
     "The volume of a cylinder with radius " << radius_from_user <<
     "mm and height " << height_from_user << "mm is " << std::setprecision(2)
-    << std::fixed << volume << "mm²" << std::endl;
+    << std::fixed << volume << "mm³" << std::endl;
 }
